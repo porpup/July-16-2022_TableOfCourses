@@ -1,7 +1,7 @@
 # Table_of_Courses
 
 
- Given the following data structure, declare a structure named Courses
+###### Given the following data structure, declare a structure named Courses
 with the appropriate fields data types.
  ---------------------------------------------------------------------
 | Course number | Title                     |Hours per week | Session |
