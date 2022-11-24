@@ -10,4 +10,3 @@ Write a code program in C++ that allows entering all the courses data
 that you have for current session at compile-time using the structure 
 Courses. Save the output tests using print-screens, or by copy-paste 
 into the .cpp file.
-
